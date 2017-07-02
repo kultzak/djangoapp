@@ -25,7 +25,7 @@ SECRET_KEY = 'eqokr2=p!tbi(scpb)ttr*(en3t987e90+s*xez_@_0z=-6srf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
