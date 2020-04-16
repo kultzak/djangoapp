@@ -1,1 +1,2 @@
+#não seria uma versão mais nova?
 Django==1.11.3

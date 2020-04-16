@@ -3,3 +3,4 @@ db.sqlite3
 *.python
 /old_app
 /.vscode
+/generative_reeds
